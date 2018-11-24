@@ -13,6 +13,10 @@ public class Aula_10 {
          n1 = medias.nextInt();
          System.out.println("digite a segunda nota");
          n2 = medias.nextInt();
+         System.out.println("digite a segunda nota");
+         n3 = medias.nextInt();
+         media = (n1 + n2 +n3)/3;
+         System.out.println("a media é :" + media);
          
         
     }
